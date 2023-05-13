@@ -12,7 +12,7 @@ export default function Navbar() {
             <div className="flex flex-row items-center ">
                 <div className="flex flex-row items-center">
                     <Image
-                        src="/images/shraddha-logo.svg"
+                        src="/images/shraddha-Logo.svg"
                         width={120}
                         height={31}
                         alt="Picture of the author"
