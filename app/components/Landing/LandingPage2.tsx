@@ -7,7 +7,7 @@ function LandingPage2() {
     <div className="w-screen h-auto px-20 pt-20 grid grid-cols-2 place-content-center overflow-hidden mb-24">
       <div className="w-full pr-20 ">
         <div className="w-full h-[600px]  relative">
-        <Image src='/images/landing-left-top.svg' fill={true}    className='w-full object-cover '    alt='banner image' />
+        <Image src='/images/landing-left-top.png' fill={true}    className='w-full object-cover '    alt='banner image' />
         </div>
         <div className="pl-20 mt-20  h-auto">
           <div>
@@ -46,7 +46,7 @@ function LandingPage2() {
           Quick Intro about what we do. Quick Intro about what we do. Quick Intro about what we do. Quick Intro about what we do. Quick Intro about what we do. Quick Intro about what we do.
           </p>
           <div className="w-full lg:h-[900px]  relative ">
-        <Image src='/images/landing-right-bottom.svg' fill={true}    className='w-full object-cover '    alt='banner image' />
+        <Image src='/images/landing-right-bottom.png' fill={true}    className='w-full object-cover '    alt='banner image' />
         </div>
         </div>
         </div>  
