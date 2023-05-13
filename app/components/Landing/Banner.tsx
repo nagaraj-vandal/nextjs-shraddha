@@ -44,7 +44,7 @@ export const Banner = () => {
         </div>
         </div>
         <div className='grid place-items-center'>
-          <Image src='/images/banner-girl.svg' width={600} height={600} alt='banner image' />
+          <Image src='/images/banner-girl.png' width={600} height={600} alt='banner image' />
         </div>
       </div>
 
