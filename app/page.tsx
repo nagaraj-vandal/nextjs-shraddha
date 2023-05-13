@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <>
     <Banner />
-    <LandingPage2 />
-    <LandingPage3 />
+    {/* <LandingPage2 />
+    <LandingPage3 /> */}
     </>
     
   )
