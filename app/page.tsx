@@ -4,7 +4,7 @@ import LandingPage3 from './components/Landing/LandingPage3'
 export default function Home() {
   return (
     <>
-    <Banner />
+    {/* <Banner /> */}
     {/* <LandingPage2 />
     <LandingPage3 /> */}
     </>
